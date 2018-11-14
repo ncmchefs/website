@@ -3373,11 +3373,11 @@ input, select, textarea {
 				border: solid 2px rgba(255, 255, 255, 0.125);
 				cursor: default;
 				display: inline-block;
-				font-size: 8em;
-				height: 6em;
-				line-height: 6em;
+				font-size: 2.25em;
+				height: 2.25em;
+				line-height: 2.25em;
 				text-align: center;
-				width: 6em;
+				width: 2.25em;
 			}
 
 		#banner h2 {
