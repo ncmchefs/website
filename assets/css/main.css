@@ -2360,7 +2360,7 @@ input, select, textarea {
 			padding: 0;
 		}
 
-/* Icon */
+/**/
 
 	.icon {
 		text-decoration: none;
@@ -3374,10 +3374,10 @@ input, select, textarea {
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
-				height: 2.25em;
+				height: 6em;
 				line-height: 2.25em;
 				text-align: center;
-				width: 2.25em;
+				width: 6em;
 			}
 
 		#banner h2 {
